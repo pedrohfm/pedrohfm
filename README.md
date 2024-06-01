@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" >
+</p>
 
-<!--
-**pedrohfm/pedrohfm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pedro Henrique Figueiredo Magalhaes 
+<sub>...</sub>
 
-Here are some ideas to get you started:
+about me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background in:** a,b,c...
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/-phfm/)
+
+## Projetos:
+Veja os tutoriais publicados do Sigmoidal:
+
+* **Analysis of e-commerce in Brazil:** https://bit.ly/2L2cMwy
+
+---
