@@ -12,9 +12,9 @@ about me...
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/-phfm/)
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+## Projects
 
-* **Analysis of e-commerce in Brazil:** https://bit.ly/2L2cMwy
+* [**Overview of e-commerce in Brazil**](https://edu.nl/b7fkf)
+  * *Python, PowerBI, Pandas, Seaborn*
 
 ---
