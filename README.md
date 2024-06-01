@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-phfm-real-estate-data-science.webp" >
+  <img src="" >
 </p>
 
 # Pedro Henrique Figueiredo Magalhaes 
