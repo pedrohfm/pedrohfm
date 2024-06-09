@@ -5,11 +5,12 @@
 </p>
 
 # Pedro Henrique Figueiredo Magalhaes 
-<sub>...</sub>
+<sub>Fascinated by the potential of data science in real estate and business | MSc Business Administration | MSc Architecture and Urbanism </sub>
 
-about me...
+I'm currently getting my MSc in Business Administration at the University of Amsterdam, having earned a MSc in Architecture and Urbanism from TU Delft (Top 3 - QSWorld rankings) in 2020.
+My ambition is to use data science to derive impactful insights about our built environment, with a focus on real estate. 
 
-**Background in:** a,b,c...
+**Background in:** Business Administration, Architecture and Urbanism. 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/-phfm/)
