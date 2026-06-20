@@ -6,7 +6,7 @@
 
 # Pedro Henrique Figueiredo Magalhaes 
 
-**Links:**
+**About:**
 * [LinkedIn](www.linkedin.com/in/pedro-henrique-figueiredo-magalhaes-asset-management)
 
 ## Projects
